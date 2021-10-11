@@ -5,7 +5,7 @@ institutions affect spending on education. Looking into the effect of specific d
 same democratic institutions, as they may vary on dimensions such as access to power, the
 distribution of resources, and whether clean elections are held. Moreover, even if a few democratic countries are fairly similar in a few dimensions, the overall mix of democracy defining characteristics may be quite different.
 
-**Background**
+**Background** <br>
 Research supports that in general, greater educational spending improves student outcomes,
 which in turn can affect employment rates, economic growth and scientific research in a
 country. Therefore, understanding how democratic institutions affect education spending
