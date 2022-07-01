@@ -1,3 +1,5 @@
+# Systems of Government and Education Spending
+
 **Research Question**:  What democratic factors matter the most when it comes to predicting an increase in educational spending in UN member countries?
 
 As of 2020, more than half of the world’s countries are democracies (of which 164 are UN member states). While there has been a lot of research on how education affects democratization, there has been comparatively little research devoted to understanding how democratic
